@@ -1,0 +1,25 @@
+
+        [
+            {
+              "title": "Complete Ethical Hacker Course for Cybersecurity Students",
+              "price": 29,
+              "image": "./images/course-1.jpg",
+              "duration": "3 Weeks",
+              "level": "Beginner",
+              "rating": 5.0,
+              "numLessons": 8,
+              "numStudents": 20
+            },
+            {
+              "title": "Top 10 Attacks for Password and Hash Cracking",
+              "price": 49,
+              "image": "./images/course-2.avif",
+              "duration": "8 Weeks",
+              "level": "Advanced",
+              "rating": 4.5,
+              "numLessons": 15,
+              "numStudents": 35
+            }
+
+          ]
+          
