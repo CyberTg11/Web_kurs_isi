@@ -25,8 +25,6 @@ function login() {
 
 function goFurther(){
   if (document.getElementById("chkAgree").checked == true) {
-    // document.getElementById('btnSubmit').style = 'background: linear-gradient(to right, #FA4B37, #DF2771);';
-    // document.getElementById('btnSubmit').style = 'background: linear-gradient(to right, rgb(69, 196, 69), rgb(223, 223, 79));';
     document.getElementById('btnSubmit').style = 'background: linear-gradient(to right, rgb(24, 88, 24), rgb(223, 223, 79));';
 
 

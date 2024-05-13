@@ -67,3 +67,11 @@ const activeElem = function () {
 }
 
 addEventOnElem(window, "scroll", activeElem);
+
+
+function getTicket() {
+  alert("Ticket successfully obtained!");
+}
+function Subscribe() {
+  alert("Newsletter subscription is successful!");
+}
