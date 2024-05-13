@@ -912,17 +912,17 @@ body {
 \*-----------------------------------*/
 
 /**
- * responsive for large than 440px screen
+ * responsive for large than 410px screen
  */
 
-@media (min-width: 440px) {
+@media (min-width: 410px) {
 
   /**
    * REUSED STYLE
    */
 
   .container {
-    max-width: 420px;
+    max-width: 410px;
     width: 100%;
     margin-inline: auto;
   }
